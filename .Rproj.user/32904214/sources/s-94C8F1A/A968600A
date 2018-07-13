@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531484910953.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A968600A",
+    "lastKnownWriteTime" : 1531484910,
+    "last_content_update" : 1531484910,
+    "path" : "~/Documents/R/csamaR/vignettes/csamaR.Rmd",
+    "project_path" : "vignettes/csamaR.Rmd",
+    "properties" : {
+        "cursorPosition" : "14,16",
+        "scrollLine" : "42"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

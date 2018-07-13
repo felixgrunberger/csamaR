@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531486365570.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EEBD37E5",
+    "lastKnownWriteTime" : 1531486381,
+    "last_content_update" : 1531486381478,
+    "path" : "~/Documents/R/csamaR/man/iris.Rd",
+    "project_path" : "man/iris.Rd",
+    "properties" : {
+        "cursorPosition" : "7,29",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
